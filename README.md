@@ -7,7 +7,7 @@ Usar LOOM para Android/Iphone para:
 5% Todo programa debe tener su encabezado de generales del programador/misión entre otros elementos comentados
 5% Comentar para recordar y documentar
 
-# Video de Youtube de Ing donde nos muestra como configurar PICO para conecxión wifi
+# Video de Youtube de Ing donde nos muestra como configurar PICO para conexión wifi
 https://www.youtube.com/watch?v=yatxW3tMhRg
 
 # Documento en PDF donde viene toda la documentación para esta práctica
